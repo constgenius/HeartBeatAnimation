@@ -1,0 +1,5 @@
+# Heart Shape and Heart Beat Animation using Pure CSS | Vibrating Heart Shape using CSS
+
+The Heart Shape and Heartbeat Animation, achieved using only CSS, introduces a charming and dynamic visual element to web interfaces. Crafted with simplicity and creativity, this technique utilizes CSS keyframes to animate a heart shape, creating a gentle heartbeat effect that visually vibrates the heart. This elegant animation is often employed to convey emotions, such as love or appreciation, and adds a touch of warmth and personality to web pages. The use of pure CSS demonstrates the versatility and creativity that can be achieved without the need for additional scripting languages, providing a delightful and lightweight solution for incorporating animated elements into web designs.
+
+![Heart Beat Animation](HeartBeatAnimation.png)
